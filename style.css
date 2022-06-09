@@ -70,4 +70,10 @@ body{
         width: 45%;
         margin-bottom: 0;
     }
+    .hero-title{
+        font-size: 2.5rem;
+    }
+    .hero-copy{
+        margin: .7em 0 1em;
+    }
 }
